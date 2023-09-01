@@ -1,0 +1,10 @@
+{
+    "scripts": {
+        "dev": "next dev"
+    },
+    "dependencies": {
+        "date-fns": "^2.30.0",
+        "remark": "^14.0.3",
+        "remark-html": "^15.0.2"
+    }
+}
